@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">-7</property>
+			<property name="Top" type="integer">-29</property>
+			<property name="Right" type="integer">1462</property>
+			<property name="Bottom" type="integer">723</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="Debugger">
+		<category name="Watches">
+			<property name="Watch1" type="string">newNode</property>
+			<property name="Watch2" type="string">newNode-&gt;data</property>
+			<property name="Watch3" type="string">newNode-&gt;next</property>
+			<property name="Watch4" type="string">start == NULL</property>
+			<property name="Watch5" type="string">start</property>
+			<property name="Watch6" type="string">newNode-&gt;value</property>
+			<property name="Watch7" type="string">ptr-&gt;data</property>
+		</category>
+	</category>
+</settings>
